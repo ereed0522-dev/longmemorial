@@ -1,0 +1,26 @@
+body{
+background-color: whitesmoke;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+video{
+    display: block;
+    margin: 0 auto;
+}
+button{
+    text-align: center;
+    font-family: "Times New Roman";
+    background-color: #341439;
+    color:#c89943;
+    border-radius: 15px;
+}
+.button-container{
+    text-align: center;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
